@@ -1,6 +1,6 @@
 import React, {FC} from 'react'
 const App:FC = () => {
-    return <div>Работает</div>
+    return <div>Works!</div>
 }
 
 export default App
